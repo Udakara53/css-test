@@ -1,0 +1,57 @@
+.section {
+  height: 50vh;
+  width: 100%;
+  background-color: antiquewhite;
+  padding: 10px;
+  position: relative;
+  position: sticky;
+  z-index: 10;
+}
+
+.section-2 {
+  height: 150vh;
+  width: 100%;
+  background-color: rgb(22, 116, 142);
+  padding: 10px;
+  z-index: 10;
+}
+
+.inbox-1 {
+  height: 10vh;
+  width: 50%;
+  background-color: green;
+  margin: 5px 10px;
+  text-align: center;
+  font-weight: 400;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+  position: sticky;
+  top: 0;
+  z-index: 21;
+}
+.inbox-2 {
+  height: 10vh;
+  width: 70%;
+  background-color: orange;
+  margin: 5px 10px;
+  text-align: center;
+  font-weight: 400;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+.inbox-3 {
+  height: 10vh;
+  width: 90%;
+  background-color: red;
+  margin: 5px 10px;
+  text-align: center;
+  font-weight: 400;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+  position: sticky;
+  top: 0;
+  z-index: 19;
+}
